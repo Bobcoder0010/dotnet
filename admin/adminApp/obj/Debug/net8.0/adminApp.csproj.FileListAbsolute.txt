@@ -1,0 +1,15 @@
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/bin/Debug/net8.0/adminApp
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/bin/Debug/net8.0/adminApp.deps.json
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/bin/Debug/net8.0/adminApp.runtimeconfig.json
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/bin/Debug/net8.0/adminApp.dll
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/bin/Debug/net8.0/adminApp.pdb
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.AssemblyInfoInputs.cache
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.AssemblyInfo.cs
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.csproj.CoreCompileInputs.cache
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.sourcelink.json
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.dll
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/refint/adminApp.dll
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.pdb
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/adminApp.genruntimeconfig.cache
+/home/bobmarley/Documents/5thsem/dotnet/admin/adminApp/obj/Debug/net8.0/ref/adminApp.dll
